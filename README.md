@@ -54,7 +54,7 @@ Exit will close the application
 ## Credit
 This app was a collaboration between my self, Stefan Aikins and the HyperionDev Team. The start and application template was built by 
 the HyperionDev Team and I refactored the code and added more functionality to make it complete.
-Thanks [HyperionDev](https://www.hyperiondev.com/)
+Thanks [HyperionDev](https://www.hyperiondev.com/).
 
 ## Future Developments
 I look forward to incorporating a Graphical User Interface and adding more functionality.
