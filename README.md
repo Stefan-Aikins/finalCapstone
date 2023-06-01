@@ -11,13 +11,13 @@ A registered User can perform the following tasks using the app:
 - Display Statistics
 - Exit the App
 
-### Installation
+## Installation
 Any IDE with python interpreter can run this application. Download the file directory on to your local computer
 For example a visual studio IDE(VS Code) can open the directory from your destination folder such downloads and display all the files.
 In your VS code menu click run and select Run without Debugging. Alternatively you can click Run at the top right corner 
 of you VS Code application
 
-### Usage
+## Usage
 After Running the application in your Integrated Development Environment (IDE), a user login request will appear in your terminal.
 For first time users, enter admin as username and password as your login password. You can crete an acount and use a new password later
 #### Register a User
@@ -50,3 +50,11 @@ Selecting this menu item will generate on all tasks and users. This includes:
 This menu item displays total number of tasks assigned and total number of registered users in the task manger app
 #### Exit
 Exit will close the application
+
+## Credit
+This app was a collaboration between my self, Stefan Aikins and the HyperionDev Team. The start and application template was built by 
+the HyperionDev Team and I refactored the code and added more functionality to make it complete.
+Thanks 
+
+## Future Developments
+I look forward to incorporating a Graphical User Interface and adding more functionality.
