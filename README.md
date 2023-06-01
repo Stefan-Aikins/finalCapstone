@@ -24,7 +24,7 @@ For first time users, enter admin as username and password as your login passwor
 Register a new user by entering a new username and new password. You will be asked to confirm password before accepting your details
 and creating your account. You can login with thses details on you next visit. Your user information is saved in the 'user.txt' file.
 #### Add a Task
-To add a new Task, first log in to your account and proceed to enter the folling details upon request. They follow in this order:
+To add a new Task, first log in to your account and proceed to enter the following details upon request. They follow in this order:
 - Username
 - Title of Task
 - Description of Task
