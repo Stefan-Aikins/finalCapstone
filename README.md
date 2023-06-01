@@ -6,7 +6,7 @@ A registered User can perform the following tasks using the app:
 - Register A User
 - Add A Task
 - View All Tasks
-- View Tasks Assigned To Only Them
+- View Mine
 - Generate Report
 - Display Statistics
 - Exit the App
@@ -32,3 +32,21 @@ To add a new Task, first log in to your account and proceed to enter the folling
 
 Your task complete status is auto set to 'No' which means Not complete. Your Assigned Date is the date when the task is created
 Your task is successfully created when your details pass all checks
+#### View All Tasks
+This menu items lets you view a cataloque of all tasks assigned to All user including you. This enables you to see what others users have been assigned to do.
+#### View Mine
+Choosing this option will allow you to view all tasks assigned to you only. You can procreed to change your user name, due date and mark the task complete. You can access each task by entering the task number and then edit the task.
+#### Generate Report
+Selecting this menu item will generate on all tasks and users. This includes:
+- Total number of Tasks
+- Total and Percentage of tasks completed
+- Total and Percentage not Completed
+- Total number of users registered
+- Percentage and total number Tasks completed by each user
+- Percentage and total number uncompleted Tasks by each user
+- etc...
+
+#### Display Statistics
+This menu item displays total number of tasks assigned and total number of registered users in the task manger app
+#### Exit
+Exit will close the application
