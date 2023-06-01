@@ -18,5 +18,6 @@ In your VS code menu click run and select Run without Debugging. Alternatively y
 of you VS Code application
 
 ### Usage
-After Running the application in your Integrated Development Environment (IDE), a user login request will appear in your terminal terminal
+After Running the application in your Integrated Development Environment (IDE), a user login request will appear in your terminal.
+For first time users, enter admin as username and password as your login password. You can crete an acount and use a new password later
 #### Register a User
