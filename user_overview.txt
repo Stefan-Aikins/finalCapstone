@@ -1,0 +1,12 @@
+
+    User Report
+Total number of registered users: 4
+Total number of Tasks: 9
+
+    stefan's Report:
+Total number of Tasks Assigned to user: 2
+Percentage of Tasks Assigned: 22%
+Percentage of Tasks completed: 11%
+Percentage Tasks Not completed: 75%
+Percentage Tasks Not completed and Overdue 0%
+    

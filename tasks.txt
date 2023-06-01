@@ -1,0 +1,9 @@
+admin;Add functionality to task manager;Add additional options and refactor the code.;2022-12-01;2022-11-22;No
+stefan;building real projects;apps that provides real life experience to the user;2023-05-01;2023-05-25;Yes
+kendrick;bonding;good family relation;2023-06-01;2023-05-25;No
+admin;performance;a high performance app;2022-12-02;2023-05-25;No
+admin;agility;developing apps in agile environment;2022-12-03;2023-05-25;No
+aikins;world class projects;our projects are world class standard;2023-06-02;2023-05-25;No
+yes;superb software;software that resolves challenging issues;2023-06-02;2023-05-25;No
+kendrick;great person;be a better person than your descendant;2023-06-02;2023-05-25;No
+kendrick;promising lad;achieve bigger things;2023-06-03;2023-05-25;No
